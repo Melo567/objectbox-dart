@@ -16,7 +16,7 @@ dependencies:
   dart_style: ^2.0.0
   glob: ^2.0.0
   path: ^1.8.0
-  source_gen: ^1.0.0
+  source_gen: ^2.0.0
   pubspec_parse: ^1.0.0
   yaml: ^3.0.0
   http: '>=0.13.5 <2.0.0'
